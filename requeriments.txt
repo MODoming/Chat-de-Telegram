@@ -1,0 +1,6 @@
+numpy==1.21.0
+python-telegram-bot==13.7
+fuzzywuzzy==0.18.0
+nltk==3.6.2
+keras==2.4.3
+tensorflow==2.3.2
