@@ -52,7 +52,5 @@ Siéntete libre de contribuir al desarrollo de este BOT. Puedes crear problemas,
 ## Notas adicionales
 Este proyecto utiliza el modelo de procesamiento del lenguaje natural (NLP) para interpretar y responder a las consultas del usuario.
 El BOT puede detectar preguntas predefinidas y proporcionar respuestas específicas para mejorar la experiencia del usuario.
-Este proyecto fue creado como un experimento personal para aprender a programar en Python y utilizar los frameworks de Machine Learning.
+Este proyecto fue creado como un experimento personal, de manera autodidacta, para aprender a programar en Python y utilizar los frameworks de Machine Learning.
 
-
-Asegúrate de actualizar la información, como el enlace del repositorio, la clave de API de Telegram y cualquier otra información específica de tu proyecto. ¡Espero que esto te sea útil!
