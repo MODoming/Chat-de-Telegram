@@ -208,7 +208,7 @@
         {
             "tag": "contacto",
             "patterns": ["¿Cómo me contacto?"],
-            "responses": ["Puedes ponerte en contacto con mi creador en su perfil de Linkedin: https://linkedin.com/in/dominguezmaximiliano o bien hablar directamente con él por Whatsapp en https://walink.co/b10784"],
+            "responses": ["Puedes ponerte en contacto con mi creador en su perfil de Linkedin: https://linkedin.com/in/dominguezmaximiliano"],
             "context": [""]
         },
         {
